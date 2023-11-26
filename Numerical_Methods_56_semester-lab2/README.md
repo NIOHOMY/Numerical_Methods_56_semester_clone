@@ -28,7 +28,7 @@ x – вектор решения размерности N.
 
 Символическое изображение схемы хранения ленточной матрицы:
 
-![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester/assets/38347892/9926223a-bda1-4b9a-8bb2-5c89c0b7f8a3)
+![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester_clone/assets/38347892/9926223a-bda1-4b9a-8bb2-5c89c0b7f8a3)
 
 Требуется написать алгоритм решения системы со стандартной ленточной
 матрицей. 
@@ -47,23 +47,23 @@ x* - случайным образом сгенерированное решен
 
 q – некоторое неотрицательное число, выбираемое с учетом особенностей решаемой системы уравнений.
 
-![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester/assets/38347892/2c841b07-2200-45ef-87c2-ea876c66ec6f)
+![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester_clone/assets/38347892/2c841b07-2200-45ef-87c2-ea876c66ec6f)
 
 Получение BC разложения матрицы методом Халецкого
 
-![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester/assets/38347892/0468de0a-ac6e-4e89-abca-bab2049c4b93)
+![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester_clone/assets/38347892/0468de0a-ac6e-4e89-abca-bab2049c4b93)
 
 Нахождение решения системы линейных уравнений
 
-![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester/assets/38347892/fe7ab722-1e49-42c5-a8f7-a33aa40cfa70)
+![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester_clone/assets/38347892/fe7ab722-1e49-42c5-a8f7-a33aa40cfa70)
 
 Преобразование индексов. Передвижение по матрице
 
-![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester/assets/38347892/72c93d77-9b71-447c-9a21-408b7be35bee)
-![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester/assets/38347892/0d98d846-18b0-495b-8fd9-3cae6ef43d36)
+![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester_clone/assets/38347892/72c93d77-9b71-447c-9a21-408b7be35bee)
+![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester_clone/assets/38347892/0d98d846-18b0-495b-8fd9-3cae6ef43d36)
 
 
-![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester/assets/38347892/6f4a201b-1cfc-4aba-8c4b-f1550c1fca07)
+![image](https://github.com/NIOHOMY/Numerical_Methods_56_semester_clone/assets/38347892/6f4a201b-1cfc-4aba-8c4b-f1550c1fca07)
 
 
 **Алгоритм**
